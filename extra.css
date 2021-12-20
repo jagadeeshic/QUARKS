@@ -1,0 +1,109 @@
+.cardp1 {
+  box-shadow: 0 4px 8px 0 rgba(0,255,0,0.3);
+  transition: 0.3s;
+  width: 100%;
+}
+
+
+
+.containerp1 {
+  padding: 2px 16px;
+}
+
+.cardp1 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+  transition: 0.3s;
+  border-radius: 5px; /* 5px rounded corners */
+}
+
+.cardp1:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,255,0,0.3);
+}
+
+
+
+#topstorename
+{
+  font-size: 30px;
+  font-style: italic;
+  font-weight: lighter;
+  font-color: DodgerBlue;
+
+   padding: 3px 4.8px;
+   margin-left: 800px;
+}
+
+.btn {
+  background-color: DodgerBlue; /* Blue background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  padding: 12px 16px; /* Some padding */
+  font-size: 20px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
+
+#customers {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 99%;
+  margin-left:10px;
+  margin-right:10px;
+}
+
+#customers td, #customers th, #customers tr {
+/*  border: 1px solid #ddd; */
+  padding: 8px;
+  border-radius:0Px;
+}
+
+<!--
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: DodgerBlue;
+  color: white;
+}
+
+#customers tr {
+  border: 1px solid #DodgerBlue;
+  border-radius: 12px;
+}
+.hello
+{
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top:10px;
+  margin-bottom: 10px;
+}
+
+.hi
+{
+  margin:10px;
+}
+.hi {
+  box-shadow: 0 4px 8px 0 rgba(0,255,0,0.3);
+  transition: 0.3s;
+  width: 100%;
+}
+
+
+.hi {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+  transition: 0.3s;
+  border-radius: 5px; /* 5px rounded corners */
+}
+
+.hi:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,255,0,0.3);
+}
